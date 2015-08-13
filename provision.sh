@@ -9,3 +9,4 @@ sudo apt-get install -y python-pip
 
 # Python Libraries
 sudo pip install Flask
+sudo pip install requests
